@@ -1,1 +1,2 @@
 first line added from local system
+This line is added from GitHub directly
