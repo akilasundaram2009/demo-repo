@@ -1,8 +1,6 @@
 first line added from local system
 This line is added directly from GitHub directly
 This is 2nd line added from GitHub directly
-L4 - Clone GitHub repository using Visual Studio 
-Code IDE 
 L5 Push the incremental changes to GitHub 
 Repository through Visual Studio Code IDE
 
